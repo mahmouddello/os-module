@@ -2,7 +2,7 @@
 This repository hold my notes from the tutorial of `os` module by [@CoreyMSchafer](https://github.com/CoreyMSchafer)
 
 > [!IMPORTANT]
->  By February 2024, this repository is public and the last modification is on February 2024.
+>  As of February 2024, this repository was made public, with its last modification recorded in February 2024.
 
 <br>
 
